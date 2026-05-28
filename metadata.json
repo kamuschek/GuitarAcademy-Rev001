@@ -1,0 +1,6 @@
+{
+  "name": "Guitar Academy",
+  "description": "Interactive guitar learning app with real-time chord detection, coaching, calendar, and community forum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
